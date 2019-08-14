@@ -1,0 +1,40 @@
+30ebd9b5b6eccc956511.js:1 Event
+main.min.js:1 DragonBones: 5.6.201 2018/01/05
+Website: http://dragonbones.com/
+Source and Demos: https://github.com/DragonBones/
+merged_jdbbase.js:179 [INFO] SmartFox instance ready!
+313b56cf5c96a14844d8.js:2 Mixed Content: The page at 'https://gamerd.jdb199.info/?e=rd&in=1&lang=CN&isHiddenCloseIcon=1&origin=http%3A%2F%2Fghrd.jdb199.info&isAPP=false&gameType=7&mType=7999&gName=TestFishing_50854b1&x=e9tkQRED2CBjkTjpkhMD1vGWzm5X0ntC8_PyR81NWNAQWKlEmQh8WCIK-1CelNAHfYNZ-HA8ZVhhQdd0fileMPgl6wqC0UrVUnD6H3pRCAAvFGfRheJJyXlS7e7bZtW5PrFNtr6ue44' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://10.20.8.30:15051/api/runDao'. This request has been blocked; the content must be served over HTTPS.
+(anonymous) @ 313b56cf5c96a14844d8.js:2
+merged_libs_egret5.js:4 ,3,2000, 0
+merged_libs_egret5.js:4 ,6,2000, 0
+merged_libs_egret5.js:4 ,9,2000, 0
+merged_libs_egret5.js:4 ,12,1980, 70
+merged_libs_egret5.js:4 ,15,1910, 140
+merged_libs_egret5.js:4 ,18,1930, 310
+merged_libs_egret5.js:4 ,21,1945, 415
+merged_libs_egret5.js:4 ,24,1910, 480
+merged_libs_egret5.js:4 ,27,1995, 685
+merged_libs_egret5.js:4 ,30,1970, 800
+merged_libs_egret5.js:4 ,33,1965, 895
+merged_libs_egret5.js:4 ,36,1910, 960
+merged_libs_egret5.js:4 ,39,2070, 1230
+merged_libs_egret5.js:4 ,42,2000, 1310
+merged_libs_egret5.js:4 ,45,2145, 1565
+merged_libs_egret5.js:4 ,48,2100, 1650
+merged_libs_egret5.js:4 ,51,2040, 1740
+merged_libs_egret5.js:4 ,54,1985, 1795
+merged_libs_egret5.js:4 ,57,1885, 1895
+merged_libs_egret5.js:4 ,60,1805, 1975
+merged_libs_egret5.js:4 ,63,2735, 3035
+merged_libs_egret5.js:4 ,66,2715, 3145
+merged_libs_egret5.js:4 ,69,2680, 3180
+merged_libs_egret5.js:4 ,72,2680, 3180
+merged_libs_egret5.js:4 ,75,2680, 3210
+merged_libs_egret5.js:4 ,78,2655, 3265
+merged_libs_egret5.js:4 ,81,3650, 4350
+merged_libs_egret5.js:4 ,84,3670, 4430
+merged_libs_egret5.js:4 ,87,3675, 4475
+merged_libs_egret5.js:4 ,90,3680, 4490
+merged_libs_egret5.js:4 ,93,3690, 4500
+merged_libs_egret5.js:4 ,96,3690, 4500
+merged_libs_egret5.js:4 ,99,3690, 4500
