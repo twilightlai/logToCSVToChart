@@ -1,2 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
+/build/
+/dist/
+/output/
+/logToCSVToChart.exe
+/logToCSVToChart.spec
